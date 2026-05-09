@@ -1,4 +1,4 @@
-/* Forge Fitness — Design tokens (light theme, GitHub Primer-inspired) */
+/* Design tokens generati da palette categoria — Federico demo */
 :root {
   --color-bg-default: #ffffff;
   --color-bg-subtle: #f6f8fa;
@@ -6,16 +6,19 @@
   --color-fg-muted: #656d76;
   --color-border: #d0d7de;
 
-  /* Brand overrides: rosso fuoco Forge Fitness */
   --color-accent: #dc2626;
-  --color-accent-hover: #b91c1c;
-  --color-success: #16a34a;
+  --color-accent-dark: #7f1d1d;
+  --color-secondary: #facc15;
+  --color-hero-bg-start: #1f2937;
+  --color-hero-bg-end: #0f172a;
+
+  --color-success: #1a7f37;
   --color-warning: #9a6700;
   --color-danger: #cf222e;
 
   --radius-sm: 4px;
-  --radius-md: 6px;
-  --radius-lg: 8px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
 
   --space-1: 0.25rem;
   --space-2: 0.5rem;
@@ -24,7 +27,7 @@
   --space-5: 2rem;
   --space-6: 3rem;
 
-  --font-display: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', sans-serif;
+  --font-display: 'Bebas Neue', 'Oswald', sans-serif;
   --font-mono: ui-monospace, SFMono-Regular, 'SF Mono', Consolas, monospace;
 }
 
@@ -64,4 +67,9 @@ img {
   max-width: 1080px;
   margin: 0 auto;
   padding: var(--space-4) var(--space-3);
+}
+
+/* Hero gradient sfumato basato sulla palette categoria */
+.hero, [class*="hero"] {
+  --hero-gradient: linear-gradient(135deg, var(--color-hero-bg-start) 0%, var(--color-hero-bg-end) 100%);
 }

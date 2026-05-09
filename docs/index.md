@@ -84,6 +84,68 @@ npm run serve:ssr:palestra
 # → http://localhost:4000
 ```
 
+## Funzionalità testabili in questa demo
+
+Visitando il sito demo puoi testare in prima persona:
+
+### 🏠 Home
+- Hero verticale con CTA principali
+- Stats trust band con numeri rappresentativi del settore
+- 4 feature card di valore (cosa rende speciale questa attività)
+- 3 elementi featured (servizi/menu/camere/corsi più richiesti)
+- CTA finale "Prenota / Contattami / Scopri di più"
+
+### 📋 Pagina catalogo (Menu / Servizi / Listino / Camere)
+- Lista completa di tutti gli elementi del catalogo
+- Filtri per categoria via signal Angular reattivo
+- Card responsive con prezzi, badge premium/featured, descrizione
+- Disclaimer prezzi IVA e variazioni stagionali
+
+### 👥 Chi siamo
+- Storia del brand con narrativa autentica del verticale
+- 4 valori distintivi della filosofia aziendale
+- Team grid con foto placeholder + bio + specializzazioni + certificazioni
+- Sezione FAQ integrata con domande frequenti del settore
+
+### 📸 Galleria / Portfolio / Lavori
+- Grid responsive con placeholder visuali per categoria
+- Filtri opzionali (tipo, periodo, stylist, area)
+- Disclaimer: nel sito reale del cliente le immagini sono sostituite con servizio fotografico professionale
+
+### ✉️ Contatti / Prenotazione
+- Form ReactiveForms con validazione client-side
+- Privacy GDPR Art.6 (e Art.9 per dati sensibili healthcare)
+- Submit simulato con stato success / error
+- Informazioni indirizzo, orari, contatti
+
+### 🎯 SEO e accessibilità
+- JSON-LD schema.org specifico del verticale
+- Meta tag dinamici per ogni route prerendered
+- Open Graph + Twitter Card
+- Lighthouse target ≥90 SEO + ≥85 Performance + ≥95 Accessibility
+- Conformità WCAG 2.1 AA (focus-visible, alt text, ARIA)
+
+### 📱 Responsive
+- Mobile-first design (testato 320px+, 768px+, 1024px+)
+- Touch target ≥44px per accessibilità
+- Hamburger menu mobile
+- Reduced motion rispettato (prefers-reduced-motion)
+
+### 💬 Banner DEMO persistente
+Sopra il footer trovi un banner con i link diretti a:
+- **Documentazione completa** (questo sito VitePress su GitHub Pages)
+- **Source code** del template (repository GitHub)
+- **Contatto Federico** (federicocalo.dev)
+
+---
+
+> **Nota**: tutti i dati visualizzati nel sito demo sono **fittizi** (mock data
+> realistici Italia 2026). Nessuna prenotazione, ordine o messaggio inviato è
+> realmente processato. Per testare il template con dati tuoi e/o personalizzarlo
+> per la tua attività, [contattami](https://federicocalo.dev) o consulta la
+> sezione [Customization](/customization) di questa documentazione.
+
+
 ## Riferimenti
 
 - [federicocalo.dev](https://federicocalo.dev) — Portfolio principale
