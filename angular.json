@@ -21,24 +21,39 @@
             "outputPath": "dist/palestra",
             "index": "src/index.html",
             "browser": "src/main.ts",
-            "polyfills": ["zone.js"],
+            "polyfills": [
+              "zone.js"
+            ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
-              { "glob": "**/*", "input": "public" },
-              { "glob": "**/*", "input": "src/assets", "output": "assets" }
+              {
+                "glob": "**/*",
+                "input": "public"
+              },
+              {
+                "glob": "**/*",
+                "input": "src/assets",
+                "output": "assets"
+              }
             ],
-            "styles": ["src/styles.css"],
-            "scripts": [],
-            "server": "src/main.server.ts",
-            "outputMode": "server",
-            "ssr": { "entry": "src/server.ts" },
-            "prerender": false
+            "styles": [
+              "src/styles.css"
+            ],
+            "scripts": []
           },
           "configurations": {
             "production": {
               "budgets": [
-                { "type": "initial", "maximumWarning": "500kB", "maximumError": "1MB" },
-                { "type": "anyComponentStyle", "maximumWarning": "4kB", "maximumError": "10kB" }
+                {
+                  "type": "initial",
+                  "maximumWarning": "500kB",
+                  "maximumError": "1MB"
+                },
+                {
+                  "type": "anyComponentStyle",
+                  "maximumWarning": "4kB",
+                  "maximumError": "10kB"
+                }
               ],
               "outputHashing": "all"
             },
@@ -53,8 +68,12 @@
         "serve": {
           "builder": "@angular/build:dev-server",
           "configurations": {
-            "production": { "buildTarget": "palestra:build:production" },
-            "development": { "buildTarget": "palestra:build:development" }
+            "production": {
+              "buildTarget": "palestra:build:production"
+            },
+            "development": {
+              "buildTarget": "palestra:build:development"
+            }
           },
           "defaultConfiguration": "development"
         },
