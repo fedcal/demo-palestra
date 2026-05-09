@@ -3,14 +3,14 @@
 Template **Angular 21 SSR** open-source per sito vetrina **Palestra** (PMI italiane).
 
 [![Demo live](https://img.shields.io/badge/demo-live-brightgreen)](https://palestra.demo.federicocalo.dev)
-[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/federico-demo-palestra/)
+[![Docs](https://img.shields.io/badge/docs-VitePress-blue)](https://fedcal.github.io/demo-palestra/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ## Quick start
 
 ```bash
-git clone https://github.com/fedcal/federico-demo-palestra.git
-cd federico-demo-palestra
+git clone https://github.com/fedcal/demo-palestra.git
+cd demo-palestra
 npm install
 npm start
 ```
@@ -36,7 +36,7 @@ npm run serve:ssr:palestra
 
 ## Documentazione completa
 
-→ https://fedcal.github.io/federico-demo-palestra/
+→ https://fedcal.github.io/demo-palestra/
 
 ## Hub demos Federico
 

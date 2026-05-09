@@ -1,5 +1,5 @@
 {
-  "name": "federico-demo-palestra",
+  "name": "demo-palestra",
   "version": "0.1.0",
   "description": "Angular 21 SSR demo template per Palestra — Federico Calò",
   "private": true,
@@ -7,7 +7,7 @@
   "homepage": "https://palestra.demo.federicocalo.dev",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fedcal/federico-demo-palestra.git"
+    "url": "https://github.com/fedcal/demo-palestra.git"
   },
   "scripts": {
     "ng": "ng",
