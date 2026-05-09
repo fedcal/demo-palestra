@@ -1,0 +1,113 @@
+{
+  "abbonamenti": [
+    {
+      "id": "mensile",
+      "nome": "Mensile",
+      "prezzo": 65,
+      "prezzoOriginale": null,
+      "sconto": null,
+      "durata": "1 mese",
+      "accessi": "illimitati",
+      "highlight": false,
+      "badge": null,
+      "features": [
+        "Accesso illimitato a tutti i corsi",
+        "Uso attrezzature sala pesi",
+        "Doccia e spogliatoi inclusi",
+        "Parcheggio gratuito"
+      ]
+    },
+    {
+      "id": "trimestrale",
+      "nome": "Trimestrale",
+      "prezzo": 175,
+      "prezzoOriginale": 195,
+      "sconto": 10,
+      "durata": "3 mesi",
+      "accessi": "illimitati",
+      "highlight": false,
+      "badge": "-10%",
+      "features": [
+        "Accesso illimitato a tutti i corsi",
+        "Uso attrezzature sala pesi",
+        "Doccia e spogliatoi inclusi",
+        "Parcheggio gratuito",
+        "1 sessione PT inclusa"
+      ]
+    },
+    {
+      "id": "semestrale",
+      "nome": "Semestrale",
+      "prezzo": 330,
+      "prezzoOriginale": 390,
+      "sconto": 15,
+      "durata": "6 mesi",
+      "accessi": "illimitati",
+      "highlight": false,
+      "badge": "-15%",
+      "features": [
+        "Accesso illimitato a tutti i corsi",
+        "Uso attrezzature sala pesi",
+        "Doccia e spogliatoi inclusi",
+        "Parcheggio gratuito",
+        "2 sessioni PT incluse",
+        "Analisi composizione corporea"
+      ]
+    },
+    {
+      "id": "annuale",
+      "nome": "Annuale",
+      "prezzo": 599,
+      "prezzoOriginale": 780,
+      "sconto": 23,
+      "durata": "12 mesi",
+      "accessi": "illimitati",
+      "highlight": true,
+      "badge": "MIGLIOR VALORE",
+      "features": [
+        "Accesso illimitato a tutti i corsi",
+        "Uso attrezzature sala pesi",
+        "Doccia e spogliatoi inclusi",
+        "Parcheggio gratuito",
+        "4 sessioni PT incluse",
+        "Analisi composizione corporea",
+        "Sospensione fino a 30gg inclusa",
+        "Accesso Kids Zone per 1 figlio"
+      ]
+    },
+    {
+      "id": "10-ingressi",
+      "nome": "Carnet 10 ingressi",
+      "prezzo": 80,
+      "prezzoOriginale": null,
+      "sconto": null,
+      "durata": "6 mesi dalla prima timbratura",
+      "accessi": "10",
+      "highlight": false,
+      "badge": null,
+      "features": [
+        "10 accessi flessibili",
+        "Accesso a tutti i corsi inclusi",
+        "Valido 6 mesi",
+        "Trasferibile a un familiare"
+      ]
+    },
+    {
+      "id": "open-day",
+      "nome": "Open Day Pass",
+      "prezzo": 15,
+      "prezzoOriginale": null,
+      "sconto": null,
+      "durata": "1 giorno",
+      "accessi": "illimitati nella giornata",
+      "highlight": false,
+      "badge": "PROVA",
+      "features": [
+        "Accesso illimitato per 1 giorno",
+        "Tutti i corsi del giorno inclusi",
+        "Uso attrezzature sala pesi",
+        "Doccia e spogliatoi inclusi"
+      ]
+    }
+  ]
+}

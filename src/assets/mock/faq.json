@@ -1,0 +1,36 @@
+{
+  "faq": [
+    {
+      "domanda": "Posso provare la palestra gratuitamente prima di iscrivermi?",
+      "risposta": "Sì! La prima sessione è completamente gratuita. Puoi partecipare a qualsiasi corso in orario, usare la sala pesi e valutare l'ambiente con calma. Prenota dal modulo 'Prenota' selezionando 'Prima sessione gratuita'."
+    },
+    {
+      "domanda": "Posso sospendere il mio abbonamento in caso di infortuni o vacanze?",
+      "risposta": "L'abbonamento Annuale include una sospensione gratuita fino a 30 giorni. Per gli altri piani è possibile richiedere la sospensione per infortuni documentati (certificato medico) fino a 60 giorni, che vengono aggiunti alla scadenza."
+    },
+    {
+      "domanda": "È necessario il certificato medico sportivo?",
+      "risposta": "Per i corsi ad alta intensità (CrossFit, HIIT, GRIT) è richiesto il certificato medico non agonistico. Per corsi a bassa intensità (Yoga, Pilates, Stretching) non è obbligatorio ma consigliato. Puoi iniziare con la prima sessione gratuita senza certificato."
+    },
+    {
+      "domanda": "Docce e asciugamani sono disponibili in palestra?",
+      "risposta": "Le docce e gli spogliatoi sono inclusi in tutti gli abbonamenti. Gli asciugamani non sono forniti: te ne puoi portare uno o noleggiare in reception per €1. L'armadietto è assegnato a pagamento (€5/mese) o disponibile come guardaroba giornaliero gratuito."
+    },
+    {
+      "domanda": "C'è il parcheggio?",
+      "risposta": "Sì, disponiamo di un parcheggio privato gratuito con 30 posti auto direttamente adiacente alla palestra su Corso Vittorio Emanuele II. Disponibile per tutti i soci nelle fasce orarie di apertura."
+    },
+    {
+      "domanda": "Avete un'area per i bambini?",
+      "risposta": "Sì, la Kids Zone è disponibile dal lunedì al venerdì 09:00-12:00 e 17:00-19:00, sabato 09:00-12:00. I bambini devono avere tra 3 e 10 anni e la supervisione è inclusa con l'abbonamento Annuale. Per gli altri piani il servizio è disponibile a €5/sessione."
+    },
+    {
+      "domanda": "Posso acquistare un ingresso singolo senza abbonamento?",
+      "risposta": "Sì! L'Open Day Pass a €15 ti dà accesso illimitato per una giornata intera, inclusi tutti i corsi in programma quel giorno. È ideale per chi vuole valutare prima di scegliere il piano, o per un allenamento occasionale."
+    },
+    {
+      "domanda": "Qual è la politica di rimborso degli abbonamenti?",
+      "risposta": "È previsto il rimborso proporzionale nei primi 14 giorni dall'attivazione, detratto il valore degli ingressi effettuati al prezzo mensile. Dopo i 14 giorni non è previsto rimborso salvo cause di forza maggiore documentate (infortuni, trasloco fuori regione). Il recesso va comunicato via email a info@forgefitness.it."
+    }
+  ]
+}

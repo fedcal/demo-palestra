@@ -1,0 +1,124 @@
+{
+  "corsi": [
+    {
+      "id": "spinning",
+      "nome": "Spinning",
+      "istruttore": "Marco Ferretti",
+      "durata": 45,
+      "livello": "Tutti",
+      "orari": ["Lun 07:00", "Lun 18:30", "Mer 07:00", "Mer 18:30", "Ven 07:00", "Ven 18:30", "Sab 09:00"],
+      "postiMax": 20,
+      "descrizione": "Allenamento cardio ad alta intensità su bici indoor. Brucia fino a 600 kcal a sessione con musica motivazionale e istruttore dal vivo. Adatto a tutti i livelli, dalla prima volta all'atleta esperto.",
+      "categoria": "cardio",
+      "featured": true
+    },
+    {
+      "id": "pilates-matwork",
+      "nome": "Pilates Matwork",
+      "istruttore": "Giulia Morano",
+      "durata": 55,
+      "livello": "Tutti",
+      "orari": ["Mar 10:00", "Gio 10:00", "Sab 10:30"],
+      "postiMax": 12,
+      "descrizione": "Metodo Pilates a corpo libero sul tappetino. Migliora postura, flessibilità e forza del core. Ideale come complemento ad altri sport e per la riabilitazione posturale.",
+      "categoria": "mente-corpo",
+      "featured": false
+    },
+    {
+      "id": "crossfit",
+      "nome": "CrossFit",
+      "istruttore": "Luca Bernardi",
+      "durata": 60,
+      "livello": "Intermedio",
+      "orari": ["Lun 07:30", "Lun 19:00", "Mar 19:00", "Mer 07:30", "Gio 19:00", "Ven 19:00", "Sab 08:00"],
+      "postiMax": 16,
+      "descrizione": "Allenamento funzionale ad alta intensità con movimenti olimpici, ginnastica e cardio. WOD (Workout of the Day) cambia ogni giorno. Il percorso CrossFit Level 1 è incluso per i nuovi iscritti.",
+      "categoria": "functional",
+      "featured": true
+    },
+    {
+      "id": "yoga-vinyasa",
+      "nome": "Yoga Vinyasa",
+      "istruttore": "Giulia Morano",
+      "durata": 60,
+      "livello": "Tutti",
+      "orari": ["Mar 07:30", "Gio 07:30", "Sab 11:30", "Dom 10:00"],
+      "postiMax": 15,
+      "descrizione": "Pratica dinamica che collega respiro e movimento in flusso continuo. Rinforza il corpo, calma la mente, migliora equilibrio e concentrazione. Stuoia fornita dalla palestra.",
+      "categoria": "mente-corpo",
+      "featured": true
+    },
+    {
+      "id": "functional",
+      "nome": "Functional Training",
+      "istruttore": "Luca Bernardi",
+      "durata": 50,
+      "livello": "Principiante",
+      "orari": ["Lun 12:30", "Mer 12:30", "Ven 12:30", "Sab 09:30"],
+      "postiMax": 14,
+      "descrizione": "Movimenti multiplanari con pesi liberi, TRX, kettlebell e medicine ball. Sviluppa forza funzionale applicabile alle attività quotidiane. Percorso ideale per chi inizia la palestra.",
+      "categoria": "functional",
+      "featured": false
+    },
+    {
+      "id": "boxing-fit",
+      "nome": "Boxing Fit",
+      "istruttore": "Marco Ferretti",
+      "durata": 50,
+      "livello": "Tutti",
+      "orari": ["Mar 18:30", "Gio 18:30", "Sab 10:00"],
+      "postiMax": 18,
+      "descrizione": "Tecnica e condizionamento della boxe senza sparring. Combinazioni al sacco, guantoni, agilità e potenza. Ottimo sfogo per lo stress, brucia fino a 700 kcal/ora.",
+      "categoria": "cardio",
+      "featured": false
+    },
+    {
+      "id": "stretching",
+      "nome": "Stretching & Mobilità",
+      "istruttore": "Chiara Russo",
+      "durata": 45,
+      "livello": "Tutti",
+      "orari": ["Lun 20:30", "Mer 20:30", "Ven 20:30"],
+      "postiMax": 20,
+      "descrizione": "Sessione dedicata al recupero muscolare, alla mobilità articolare e alla prevenzione infortuni. Consigliato dopo allenamenti intensi. Attività zen con musica rilassante.",
+      "categoria": "recupero",
+      "featured": false
+    },
+    {
+      "id": "total-body",
+      "nome": "Total Body",
+      "istruttore": "Sofia De Luca",
+      "durata": 50,
+      "livello": "Principiante",
+      "orari": ["Lun 09:30", "Mer 09:30", "Ven 09:30", "Sab 08:30"],
+      "postiMax": 20,
+      "descrizione": "Circuito completo che allena tutti i gruppi muscolari in un'unica sessione. Esercizi con corpo libero, pesi leggeri e bande elastiche. Perfetto per tonificare e migliorare la resistenza.",
+      "categoria": "tonificazione",
+      "featured": false
+    },
+    {
+      "id": "hiit",
+      "nome": "HIIT",
+      "istruttore": "Marco Ferretti",
+      "durata": 40,
+      "livello": "Avanzato",
+      "orari": ["Mar 07:00", "Gio 07:00", "Ven 07:00", "Sab 07:30"],
+      "postiMax": 16,
+      "descrizione": "High Intensity Interval Training: intervalli brevi ad altissima intensità alternati a recupero attivo. Massimizza il consumo calorico e l'afterburn. 40 minuti di puro impegno.",
+      "categoria": "cardio",
+      "featured": false
+    },
+    {
+      "id": "grit",
+      "nome": "GRIT Strength",
+      "istruttore": "Luca Bernardi",
+      "durata": 30,
+      "livello": "Avanzato",
+      "orari": ["Lun 13:00", "Mer 13:00", "Ven 13:00"],
+      "postiMax": 14,
+      "descrizione": "Allenamento Les Mills in 30 minuti ad altissima intensità con bilancieri e pesi. Sviluppa forza muscolare, resistenza e potenza. Sessione compatta per chi ha poco tempo ma vuole risultati concreti.",
+      "categoria": "functional",
+      "featured": false
+    }
+  ]
+}

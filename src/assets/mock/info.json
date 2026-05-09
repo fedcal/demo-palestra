@@ -1,0 +1,47 @@
+{
+  "ragioneSociale": "Forge Fitness S.r.l.",
+  "nomeCommerciale": "Forge Fitness",
+  "tagline": "Train hard. Live strong.",
+  "indirizzo": {
+    "via": "Corso Vittorio Emanuele II 145",
+    "citta": "Torino",
+    "provincia": "TO",
+    "cap": "10138",
+    "regione": "Piemonte",
+    "paese": "Italia",
+    "lat": 45.0651,
+    "lng": 7.6788
+  },
+  "contatti": {
+    "telefono": "+39 011 456 7890",
+    "email": "info@forgefitness.it",
+    "social": {
+      "instagram": "https://www.instagram.com/forgefitness_torino",
+      "facebook": "https://www.facebook.com/forgefitnesstorino"
+    }
+  },
+  "orari": {
+    "lunedi": "06:30 – 22:00",
+    "martedi": "06:30 – 22:00",
+    "mercoledi": "06:30 – 22:00",
+    "giovedi": "06:30 – 22:00",
+    "venerdi": "06:30 – 22:00",
+    "sabato": "08:00 – 20:00",
+    "domenica": "09:00 – 13:00"
+  },
+  "servizi": {
+    "parcheggioGratuito": true,
+    "docciaSpogliatoi": true,
+    "accessibileDisabili": true,
+    "kidsZone": true,
+    "wifiGratuito": true,
+    "ariaCondizionata": true,
+    "barProteico": true,
+    "armadietti": true
+  },
+  "metaSeo": {
+    "title": "Forge Fitness Torino — CrossFit, Functional, Spinning, Yoga",
+    "description": "Palestra moderna a Torino: CrossFit, Functional, Spinning, Yoga. 1200 soci, 5 trainer certificati, parcheggio gratuito. Prenota la tua prima sessione gratuita.",
+    "keywords": ["palestra torino", "crossfit torino", "spinning torino", "yoga torino", "functional training", "forge fitness"]
+  }
+}

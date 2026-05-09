@@ -1,0 +1,59 @@
+{
+  "istruttori": [
+    {
+      "id": "marco-ferretti",
+      "nome": "Marco Ferretti",
+      "specializzazione": "Spinning & Boxing Fit",
+      "certificazioni": ["Spinning Instructor SPIN Italy", "Boxing Fitness CSEN", "HIIT Specialist FIF"],
+      "bio": "Marco si è avvicinato al fitness agonistico a 20 anni come ciclista amatoriale. Dopo la formazione come istruttore di Spinning a Milano, ha integrato la preparazione atletica nella boxe fitness. In Forge da 4 anni, porta energia e motivazione ad ogni sessione.",
+      "anniEsperienza": 8,
+      "foto": "placeholder",
+      "iniziale": "M",
+      "corsi": ["spinning", "boxing-fit", "hiit"]
+    },
+    {
+      "id": "giulia-morano",
+      "nome": "Giulia Morano",
+      "specializzazione": "Yoga & Pilates",
+      "certificazioni": ["Yoga Alliance RYT-500", "STOTT Pilates Matwork", "Wellness Coach AIF"],
+      "bio": "Giulia ha scoperto lo Yoga durante un anno sabbatico in India. Certificata RYT-500 con Yoga Alliance, integra la tradizione Vinyasa con il metodo Pilates moderno. Esperta di benessere mentale applicato allo sport, collabora con fisioterapisti per percorsi posturali.",
+      "anniEsperienza": 10,
+      "foto": "placeholder",
+      "iniziale": "G",
+      "corsi": ["yoga-vinyasa", "pilates-matwork"]
+    },
+    {
+      "id": "luca-bernardi",
+      "nome": "Luca Bernardi",
+      "specializzazione": "CrossFit & Functional",
+      "certificazioni": ["CrossFit Level 2 Trainer", "NSCA-CSCS", "Olympic Weightlifting FIPE"],
+      "bio": "Ex atleta di powerlifting regionale, Luca ha ottenuto la certificazione CrossFit Level 2 dopo 3 anni di programmazione per atleti agonisti. Appassionato di pesistica olimpica, insegna il sollevamento pesi come base del movimento funzionale di qualità.",
+      "anniEsperienza": 7,
+      "foto": "placeholder",
+      "iniziale": "L",
+      "corsi": ["crossfit", "functional", "grit"]
+    },
+    {
+      "id": "chiara-russo",
+      "nome": "Chiara Russo",
+      "specializzazione": "Mobilità & Recupero",
+      "certificazioni": ["Mobility & Stretching FIF", "Kinesiology Taping KTAI", "Wellness Coach AIF"],
+      "bio": "Chiara ha un background in fisioterapia preventiva e ha trasformato la sua passione per il movimento consapevole in una specializzazione unica. I suoi corsi di Stretching e Mobilità sono i più prenotati della settimana da atleti che vogliono restare in forma a lungo.",
+      "anniEsperienza": 6,
+      "foto": "placeholder",
+      "iniziale": "C",
+      "corsi": ["stretching"]
+    },
+    {
+      "id": "sofia-de-luca",
+      "nome": "Sofia De Luca",
+      "specializzazione": "Tonificazione & Total Body",
+      "certificazioni": ["Personal Trainer ISSA", "CrossFit Level 1 Trainer", "Nutrition Coaching PN1"],
+      "bio": "Sofia ha iniziato come appassionata di fitness a 18 anni e ha trasformato la passione in professione. Specializzata in composizione corporea e rieducazione posturale, affianca l'allenamento con consulenza nutrizionale base. Segue anche clienti senior e donne in post-parto.",
+      "anniEsperienza": 5,
+      "foto": "placeholder",
+      "iniziale": "S",
+      "corsi": ["total-body"]
+    }
+  ]
+}
